@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The defence of age, and recouery of youth translated by the famous Clarke &amp; ryght experte medycines, Arnolde de noua Villa ; very profytable for all men to knowe.</title>
+            <author>Arnaldus, de Villanova, d. 1311.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1550</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21468</idno>
+            <idno type="STC">STC 777.5</idno>
+            <idno type="STC">ESTC S132</idno>
+            <idno type="EEBO-CITATION">21533212</idno>
+            <idno type="OCLC">ocm 21533212</idno>
+            <idno type="VID">24748</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 24748)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1739:62)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The defence of age, and recouery of youth translated by the famous Clarke &amp; ryght experte medycines, Arnolde de noua Villa ; very profytable for all men to knowe.</title>
+                  <author>Arnaldus, de Villanova, d. 1311.</author>
+                  <author>Drummond, Jonas.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by me Robert Wyer, dwellynge in Saynt Martyns parys[s?]he, at the sygne of Saynt John Euangelyst besyde Charynge Crosse,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[ca. 1550]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also published under title: Here is a newe boke, called the defence of age and recouery of youth.  Translated from Latin by Jonas Drummond--Cf. NUC pre-1956 imprints.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by STC (2nd ed.).</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hygiene --  Early works to 1800.</term>
+               <term>Longevity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:24748:1" rendition="simple:additions"/>
+            <p>¶ The defence of age / and recouery of youth / tranſlated by the famous Clarke, &amp; ryght experte medycines, Arnolde de noua Villa very profytable for all men to kno<g ref="char:EOLhyphen"/>we.</p>
+            <p>R<g ref="char:punc">▪</g>
+               <figure>
+                  <figDesc>device with initials of printer Robert Wyer (1529-60)</figDesc>
+               </figure>W<g ref="char:punc">▪</g> 
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:24748:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>He conſeruacion of youth, and withſtandynge of age, co<g ref="char:cmbAbbrStroke">̄</g>ſyſteth in the maintening of the powres, the ſpyrites, and the naturall here of the body in their ſtate &amp; temperancy, &amp; in the com<g ref="char:EOLunhyphen"/>fortyng &amp; repayringe of them beynge defectiue. For ſo longe as the powers the ſpirites, &amp; the natural here of ma<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>nes body are not debilitate nor weke<g ref="char:EOLunhyphen"/>ned, ſo longe (I ſay) neyther ſhall the ſkin wrincle, for the debilite of the na<g ref="char:EOLunhyphen"/>turall hete declynyng, to coldenes &amp; drynes through the whiche fode &amp; no<g ref="char:EOLunhyphen"/>ryſhment of the body is corrupted &amp; hindred, is cauſe of corrugacio<g ref="char:cmbAbbrStroke">̄</g> or wri<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>kling of the ſkyn for the meat beyng fyrſt dygeſted in the ſtomacke, &amp; then ſhortly after ſent in to euery parte of the body, is dygeſted again of the na<g ref="char:EOLunhyphen"/>tural hete of the ſame parte, where it is receiued, the<g ref="char:cmbAbbrStroke">̄</g> yf y<hi rend="sup">e</hi> this natural hete be by any occaſyon corrupted, or de<g ref="char:EOLhyphen"/>ſtroyed, the fode alſo is ſe<g ref="char:cmbAbbrStroke">̄</g>t to y<hi rend="sup">e</hi> ſame
+<pb facs="tcp:24748:2"/>place ſhalbe lykewiſe corrupted &amp; the<g ref="char:cmbAbbrStroke">̄</g> ſo enſueth corrugacion of the ſkyn, &amp; hore heres as ye may ſe in the auncy eut &amp; aged men whe<g ref="char:cmbAbbrStroke">̄</g> theyde cold and dry, for hotenes co<g ref="char:cmbAbbrStroke">̄</g>meth of the defect of natural hete, the which defendeth the body from age, age properly doth make man cold and dry and therfore they be of lytell blod and the powres and natural hete in the<g ref="char:cmbAbbrStroke">̄</g> very weke, &amp; vnable to concectyng &amp; degeſtynge of meate, wherfore there encreaſe great plenty of humidites &amp; crude rawe hu<g ref="char:EOLunhyphen"/>mours, &amp; therfore the in ſprites &amp; y<hi rend="sup">e</hi> .iii. degeſtyons in age be decayed, &amp; in them rayneth the debylytie of hete, &amp; this foloweth with y<g ref="char:cmbAbbrStroke">̄</g> courſe of tyme the whiche courſe maye be ſomwhat let &amp; detended by phiſicke, &amp; by auoy<g ref="char:EOLhyphen"/>dynge of ſuche accidentall cauſes as do induce age, as ſorowe, ſludy, heny nes, diſperacion, ouermoch venery, la<g ref="char:EOLunhyphen"/>bor, trauel, or reſt, &amp; when age by any of theſe cauſes is come, the<g ref="char:cmbAbbrStroke">̄</g> to ampu<g ref="char:EOLhyphen"/>tat
+<pb facs="tcp:24748:3"/>or cut away the cauſe by thinges apropriat, and for the <g ref="char:abpre">p̄</g>ſeruacion of y<hi rend="sup">e</hi> powers is no better thyng then a ſy<g ref="char:EOLunhyphen"/>rupe made of wine &amp; ſuger, mixt togi<g ref="char:EOLunhyphen"/>ther .iii. partes of wine and .ii. partes of ſuger dronke w<hi rend="sup">t</hi> fayre water, or bo<g ref="char:EOLunhyphen"/>rage water this ſirupe is both meat and drinke, &amp; in it be .ii. thynges con<g ref="char:EOLhyphen"/>fyct togyther, whiche are moſt frend<g ref="char:EOLunhyphen"/>ly to nature, and when the powers be weke they nede ſuch thinges as may corupt them both meate. drinkes, &amp; other ſpyces, &amp; moyſtynge medicines and thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is a very ſecret thynge. For <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ugacion and reu<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yng o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſkyn re<g ref="char:EOLunhyphen"/>quire ſuch thynges, as do clenſe and make playne &amp; ſmoth ſkyn with cer<g ref="char:EOLhyphen"/>tayne oyles, waters, &amp; oyntementes. Goodlines and freſſhenes of colour, is by fedinge vpon ſuch meates and drynkes, as do engendre good &amp; lau<g ref="char:EOLunhyphen"/>dable blod, &amp; are lyght of digeſtion, &amp; by ſuch thinges as do clenſe the blod corupted, and the other powers is o<g ref="char:EOLhyphen"/>uer<g ref="char:EOLhyphen"/>moche
+<pb facs="tcp:24748:3"/>euacuacion, or to often let<g ref="char:EOLunhyphen"/>tyng of blod, or ſuch other lyke thin<g ref="char:EOLhyphen"/>ges. Theſe thinges may be amended with thus, eatyng of chekyns, &amp; che<g ref="char:EOLhyphen"/>kyn broth, with oewe reſt and ſleepe, and alſo with ſweete and Odoryfe<g ref="char:EOLhyphen"/>rous thynges, and ſuche other lyke. ¶ Thinges engendrynge euyil &amp; rot<g ref="char:EOLhyphen"/>ten flume, be fruytes, tyſſhe, all thyn<g ref="char:EOLunhyphen"/>ges made of mylke, &amp; ſuche other, of the which be engendred waterye hu<g ref="char:EOLhyphen"/>mours nor dygeſtable in the me<g ref="char:cmbAbbrStroke">̄</g>bres &amp; the<g ref="char:cmbAbbrStroke">̄</g> in the ſame membres it cauſeth horenes, and wrincles. But amonge all other thynges there is nothynge, the whiche ſo ſtronglye doth cauſe a man to loke oldely, as feare, and deſ<g ref="char:EOLhyphen"/>peracion. For bycauſe in that paſſy<g ref="char:EOLhyphen"/>on and effection, al the naturall hete of the body doth reſorte inwarde, and forſaketh the outwarde partes, and that moſte chefelye, when the mans complection is dyſpoſed to the ſame, and y<hi rend="sup">t</hi> is the cauſe that many beynge
+<pb facs="tcp:24748:4"/>toſt turmoyled, and vexed with this worldly ſtormes ſodaynely theyr hee<g ref="char:EOLunhyphen"/>re waxe hore, or whyte.</p>
+            <p>¶ Nowe thyngꝭ that do reſyſt or put away theſe cauſes, are choſe<g ref="char:cmbAbbrStroke">̄</g> the ioy<g ref="char:EOLhyphen"/>ce of pomegranate, &amp; chyefely golde, the ioyce of Borage, and of Fumyto<g ref="char:EOLunhyphen"/>tye, and ſpecially grene and purified, and the vertue of the roote of Plan<g ref="char:EOLhyphen"/>tayue, and ſuche other.</p>
+            <p>¶ The roten flume is deſtroied with the vſe of Mirabolanes co<g ref="char:cmbAbbrStroke">̄</g>poſed, and Alot roſaru<g ref="char:cmbAbbrStroke">̄</g> and Agarike, thinges to be had at the Pothecaries And that wherwith properly both melancoly &amp; flume be expelled out of the bodye, is Cleborus niger, called in Englyſſhe, Beares fote, prepared by by a certay<g ref="char:EOLunhyphen"/>ne maner vnto fewe knowen. For in the rectyfynge of the malyciouſnes of this herbe, ſtandeth all the ſecrete of his operation. For by hym a man ſhalbe altered fro<g ref="char:cmbAbbrStroke">̄</g> euyll compliction to good, and it reſtoreth youth again
+<pb facs="tcp:24748:4"/>but it is not co<g ref="char:cmbAbbrStroke">̄</g>uenyente for belycate bodies &amp; noble co<g ref="char:cmbAbbrStroke">̄</g>plections, and ther<g ref="char:EOLunhyphen"/>fore I wyll ſay lytel of him. Beware ye neuer entermedle with this herbe without the aduyſemente and coun<g ref="char:EOLhyphen"/>ſayle of ſome experte and well lear<g ref="char:EOLunhyphen"/>ned Phyſycion.</p>
+            <p>¶ Alſo Dianthos compoſed with ſu<g ref="char:EOLunhyphen"/>ger, the whiche properly doth conſu<g ref="char:EOLhyphen"/>me all the fleume and melancoly be<g ref="char:EOLhyphen"/>yuge in the heade and it taryeth and letteth the hore heeres coroborateth and ſtrengneth the ſences, and pro<g ref="char:EOLhyphen"/>longeth the lyfe, and chyfely whe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a quantite of it is dyſolued in aqua vy<g ref="char:EOLhyphen"/>te well and craftely made, and ſom<g ref="char:EOLhyphen"/>tyme it is dyſſolued in wyne, and ly<g ref="char:EOLhyphen"/>eth in it .ii. or .iii daies, and the<g ref="char:cmbAbbrStroke">̄</g> ſtray<g ref="char:EOLunhyphen"/>ned, &amp; ſo vſed conueniently according to the counſayle of a Phyſytion.</p>
+            <p>¶ Other thynges alſo there be, whi<g ref="char:EOLhyphen"/>che quicken &amp; maketh luſty the body, as Diacameron, Mirabolany, Che<g ref="char:EOLhyphen"/>buly compoſed whiche by theyr pro<g ref="char:EOLhyphen"/>pertye
+<pb facs="tcp:24748:5"/>do conſume and waſt the fleu<g ref="char:EOLhyphen"/>matike ſuperfluites of the ſtomacke and do comforte him, and do claryfy the blod, and be of gret force againſt melancoly, and the vſe of thoſe do co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>forte youth, and cauſeth a man for to waxe yonge againe, and defendeth a man from hore heres. Alſo the decoc<g ref="char:EOLunhyphen"/>tion of ſene with Dlaboraqinatum, and of the whey of Sotes mylke, and ſuch other. And one of the chefe thin<g ref="char:EOLunhyphen"/>ges, wherby age is defended &amp; youth prolonged, is once in a mouth to ha<g ref="char:EOLunhyphen"/>ue a vomet to expell the fleumatycke humour, and once in a weke to recey<g ref="char:EOLunhyphen"/>ue aclyſter / and ſpecyallye that com<g ref="char:EOLhyphen"/>poſed of the ioyce of Mercury / Wal<g ref="char:EOLunhyphen"/>worte / Elder / and bete with halfe an ounce of Yeropegara / the whiche is a greate ſecrete.</p>
+            <p>¶ And alſo ſubiection made with ye ropigra, or Caſſia fiſtula, and the ioy<g ref="char:EOLunhyphen"/>ce of freſſhe roſes / preparate with ſu<g ref="char:EOLunhyphen"/>ger, is a goodly eaſer of nature, my<g ref="char:EOLunhyphen"/>nyſtred
+<pb facs="tcp:24748:5"/>wyſely, &amp; it is a bleſſed medy eyne to make aman ſoluble, and ther with alſo it co<g ref="char:cmbAbbrStroke">̄</g>forteth the pryncypall membres in man, &amp; altreth the euyll diſpoſycion of ma<g ref="char:cmbAbbrStroke">̄</g> to good, it openeth opilacions or ſtoppy<g ref="char:cmbAbbrStroke">̄</g>ges, it co<g ref="char:cmbAbbrStroke">̄</g>forteth the hert, and clenſeth it, and to ſpeke of the prayſe of this medycine wolde requyre a longe proceſſe.</p>
+            <p>¶ Other thynges alſo deſtroyenge &amp; co<g ref="char:cmbAbbrStroke">̄</g>ſumynge the humours, which cau<g ref="char:EOLunhyphen"/>ſe age are thoſe temperat ſpices kno<g ref="char:EOLunhyphen"/>wen to euery booy, Cloues, cinamom Liquirice, &amp; ſuch other, but moſt prin<g ref="char:EOLunhyphen"/>cypally, when they an confyet &amp; incor perat w<hi rend="sup">t</hi> good wine, &amp; ſo beynge fyrit ſo<g ref="char:cmbAbbrStroke">̄</g>what watred) receiued &amp; dronken.</p>
+            <p>¶ Alſo it is not vnknowe<g ref="char:cmbAbbrStroke">̄</g>, howe that pylles made of myrtha, be of an exel<g ref="char:EOLhyphen"/>lente goodnes in the conſeruacion of heith &amp; lyfe, for it withſtandeth putri<g ref="char:EOLunhyphen"/>faction rectyfyeth &amp; ſyncereth y<hi rend="sup">e</hi> whi<g ref="char:EOLhyphen"/>che is redy to putrif action, wherfore this Myrtha is confyete with ſuche
+<pb facs="tcp:24748:6"/>thinges as deade bodyes are incered withall, to defende the corſe from pu<g ref="char:EOLunhyphen"/>trifactio<g ref="char:cmbAbbrStroke">̄</g>. And the foreſayd ſpyced wy<g ref="char:EOLunhyphen"/>ne, when it is receiued of man it ſpre<g ref="char:EOLunhyphen"/>deth it ſelfe abrode in y<hi rend="sup">•</hi> partes of the body, and comforth all the partes of the body, &amp; dryeth vp the ſuperfluous humydytes of the body, and alſo the powder of the ſame Spyces oft vſed with meate profyteth wonderfully.</p>
+            <p>¶ Howbeit, yf the man be of a dry diſ<g ref="char:EOLunhyphen"/>poſytion, then ſhal it be nedeful to ad<g ref="char:EOLunhyphen"/>ioyne to theſe ſpyces, ſome more te<g ref="char:cmbAbbrStroke">̄</g>pe<g ref="char:EOLunhyphen"/>rate thing, as the ioyce of Pomegra<g ref="char:EOLunhyphen"/>nates, Roſewater, Suger, Lyckerice Reſyns &amp; ſuche lyke. Diacameron re<g ref="char:EOLunhyphen"/>ſtoreth dygeſtion loſt, &amp; comforteth it and Trifera paſſeth all declynynge, ſomwhat more to calidite, the natu<g ref="char:EOLhyphen"/>rall hete then &amp; the meat comynge to the membres beynge decayed or cor<g ref="char:EOLhyphen"/>rupted, which co<g ref="char:cmbAbbrStroke">̄</g>meth of putrifyed co<g ref="char:EOLunhyphen"/>lour, forthwith enſueth corrugation and olde lokynge as ye may ſe in ſu<g ref="char:EOLhyphen"/>che
+<pb facs="tcp:24748:6"/>as ar ſcaby in any parte of theyr body, for that parte beynge infected / it ſemeth riuyled and olde ſkyn. The infection beyng once departed again the ſkyn ſheweth it ſelfe fayre, ſmoth and yongly, and to thoſe golde prepa<g ref="char:EOLunhyphen"/>rate is ſouerayne, &amp; the wyne of Po<g ref="char:EOLhyphen"/>megranat, &amp; this is ſpeciall good for the lepry. And this wine of granates taken and receiued howe ye lyſt, hath properte to extenate the humours, &amp; to alay the hete of the liuer, &amp; to com<g ref="char:EOLunhyphen"/>forte all partes of mans body offen<g ref="char:EOLhyphen"/>ded with hete, and it is good againſt wekenes othert, fortefieth the mouth of the ſtomacke, &amp; co<g ref="char:cmbAbbrStroke">̄</g>forteth the hert. Alſo Mirabolani, rebuli co<g ref="char:cmbAbbrStroke">̄</g>diti be ve<g ref="char:EOLunhyphen"/>ry good both in hote &amp; colde deſeaſes, they comforte the ſtomacke, and dry<g ref="char:EOLhyphen"/>eth vp the ſuperfluous moyſtnes of the ſame, &amp; beſydes this they do help the melancolyke people / they claryfy and make clere the blod &amp; the ſpyrytꝭ neither is there anythinge more ex<g ref="char:EOLhyphen"/>cellente
+<pb facs="tcp:24748:7"/>for that purpoſe then theſe.</p>
+            <p>¶ Alſo Borage wyne made (in tyme that grapes be gathered &amp; preſſed) w<hi rend="sup">t</hi> muſt is princypally good for melan<g ref="char:EOLhyphen"/>coly, faynte herted, &amp; mad people, for it clenſeth the blode &amp; taketh awaye euyll fantaſyes, and comforteth all the regetyue powers, &amp; encountreth all corrupcion. The electuary alſo of the Mirabolans vſed is a thi<g ref="char:cmbAbbrStroke">̄</g>g right often proued and alowed, to the con<g ref="char:EOLunhyphen"/>ſeruacion of helth and prolonging of the lyfe, and to waxe yonge agayne, for it comforteth the ſtomake &amp; ma<g ref="char:EOLhyphen"/>keth it apt &amp; luſty, and co<g ref="char:cmbAbbrStroke">̄</g>ſumeth the watrynes lefte of the fore fode, &amp; the vſe of this electuary w<hi rend="sup">t</hi>ſtandeth age, and cauſeth man to lyue long by the helpe of God.</p>
+            <p>¶ Agayne certayne ſuffumygacions and ſauours made of couenient thin<g ref="char:EOLunhyphen"/>ges, and accordynge as the man ne<g ref="char:EOLhyphen"/>deth is verye profytable.</p>
+            <p>¶ Bathynge alſo temperately with<g ref="char:EOLhyphen"/>out
+<pb facs="tcp:24748:7"/>any great ſwetynge ſo that one<g ref="char:EOLunhyphen"/>lye the ſkyn be mu<g ref="char:cmbAbbrStroke">̄</g>dyfyed and clenſed from fylthynes, is holſome and pro<g ref="char:EOLhyphen"/>fytable, for therby the powers are o<g ref="char:EOLhyphen"/>pened, and the ſuper<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>luous humydy<g ref="char:EOLhyphen"/>ties lutkynge within the ſkyn, be wa<g ref="char:EOLhyphen"/>ſted and dryed vp.</p>
+            <p>¶ But the vſe of good wyne / in the whiche ſuche ſpyces as we haue ſpo<g ref="char:EOLhyphen"/>ken of before, haue be ſteped, and the vertue of them in it deſolued, tempe<g ref="char:EOLhyphen"/>ratly taken with a lytel water myxt therewith in dewe ſeaſon, ſhall paſſe and enter in to all the hyd wayes of the bodye, and it ſhall drye vp all the euyll humidities, and comforteth all the inward partes, and perfitly doth open all maner of opilations or ſtop<g ref="char:EOLhyphen"/>pynge, the whiche is ſecret for the a<g ref="char:EOLhyphen"/>parition or openinge of places opilat or ſtopped, cauſeth the lyuely ſpyritꝭ to runne throughout euerye parte of the bodye, and cauſeth the naturall hete for to waxe ſtronge, and to be of
+<pb facs="tcp:24748:8"/>great force, but opylacion or ſtoppyn<g ref="char:EOLunhyphen"/>ge cauſeth the contrary, for the natu<g ref="char:EOLunhyphen"/>rall hete beynge conculcate, or ſtran<g ref="char:EOLunhyphen"/>gled, not hauynge fre paſſage throu<g ref="char:EOLhyphen"/>ghe euery parte, is therby debylytate and wekened, and ſo not ſuffyciente and myghty to ſeperate the pure fro<g ref="char:cmbAbbrStroke">̄</g> the vnpure, whe reupon the ſuperflu<g ref="char:EOLhyphen"/>ous humydities, rotten and putry<g ref="char:EOLhyphen"/>fyed be in the body moche increaſed, and therby conſequently enſueth the wrynkelynge of the fleſſhe and ſkyn and age at hande.</p>
+            <p>¶ Another alſo ſtronge meane there is, to defende age, and for to recouer youth agayne, by abſtynence, and con<g ref="char:EOLunhyphen"/>uenyente for bearynge of your quan<g ref="char:EOLunhyphen"/>tyte of meat, vnto ſuche tyme as the body be brought very lowe, and ma<g ref="char:EOLhyphen"/>de verye ſpare, and then to reſtoore, and noryſſhe it agayne with lawda<g ref="char:EOLhyphen"/>ble holſome and good foode, whiche hath a propertye to engendre cleare and pure blode.</p>
+            <p>
+               <pb facs="tcp:24748:8"/>
+¶ This poynte alſo do they obſerue, the whiche make faete Oxen, whoſe fleſſhe the more it waxeth leane and bare, the more alſo dooth it become tendre and yonge, and the better af<g ref="char:EOLhyphen"/>terwarde do they lyke &amp; batten, &amp; ye may alſo ſe the practiſe of this i<g ref="char:cmbAbbrStroke">̄</g> ſuch as be lately recouered from ſycknes.</p>
+            <p>¶ But to be ſhort, he that wyl refrey<g ref="char:EOLunhyphen"/>ne age, and conſerue youth, let hym not be neglygent in choſynge of his meat / that it be ſuche, as may brede good clere fat, thicke &amp; viſcous blod and then may he withſtand wel age.</p>
+            <p>¶ And when that ſuche humydyties or moyſtnes, whiche are in the body, and crude humours that are increa<g ref="char:EOLhyphen"/>ſed in man, then hath he nede of ſuch thynges whiche do extenat and exic<g ref="char:EOLhyphen"/>cat thoſe ſuperfluous moyſtnes, and ſuche thinges as may dygeſt the cru<g ref="char:EOLunhyphen"/>de or rawe humours / ſyncere and de<g ref="char:EOLunhyphen"/>pure the hole bodye.</p>
+            <p>¶ Amonge other thynges, ſuche as
+<pb facs="tcp:24748:9"/>waxe aged, haue great nede of cale<g ref="char:EOLhyphen"/>faction / and humyſtacion, that is to ſay, warmynge, &amp; moiſtynge, of both equally by meates and drynkes, and medycynes conuenyent / by exercyſe and gladnes.</p>
+            <p>¶ Nowe that he may kepe his body in ſuche temperancie, that he may ly<g ref="char:EOLunhyphen"/>ue withoute the horrydle daunger of greuous ſyckenes, and the better able to ſerue almyſchty God, to who<g ref="char:cmbAbbrStroke">̄</g> be all honoure and glorye. Amen.</p>
+            <trailer>¶ FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted by me Robert wyer, dwellynge in ſaynt Martyns Paryſſhe at the ſygne of ſaynt Iohn<g ref="char:cmbAbbrStroke">̄</g> Euangelyſt, be<g ref="char:EOLhyphen"/>ſyde Charynge Croſſe.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
